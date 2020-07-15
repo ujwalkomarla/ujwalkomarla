@@ -2,10 +2,11 @@
 
 - I'm a developer [@extremenetworks](https://github.com/extremenetworks) delivering you simplified network configuration management, programmable northbound interfaces, and improved network platform infrastructure.
 
-- I collaborate with OSS Ansible community to provide plugins and modules to interact and manage Extreme Networks products.
+- I collaborate with OSS Ansible community to provide plugins and modules to interact with and manage Extreme Networks products.
 
-- I'm currently taking learning about airplane aerodynamics, aircraft systems, navigation in the pursuit of a pilot license.
+- I'm currently learning about airplane aerodynamics, aircraft systems, navigation in the pursuit of a pilot license.
 
+- Find me on LinkedIn [@ujwalkomarla](https://www.linkedin.com/in/ujwalkomarla/).
 
 ### 
 <!--
