@@ -4,8 +4,6 @@
 
 - I collaborate with OSS Ansible community to provide plugins and modules to interact with and manage Extreme Networks products.
 
-- I'm currently learning about airplane aerodynamics, aircraft systems, navigation in the pursuit of a pilot license.
-
 - Find me on LinkedIn [@ujwalkomarla](https://www.linkedin.com/in/ujwalkomarla/).
 
 ### 
