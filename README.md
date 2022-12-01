@@ -2,8 +2,6 @@
 
 - I'm a software development engineer [@extremenetworks](https://github.com/extremenetworks) delivering simplified network configuration management, programmable northbound interfaces, and improved network platform infrastructure.
 
-- I collaborate with OSS Ansible community to provide plugins and modules to interact with and manage Extreme Networks products.
-
 - Find me on LinkedIn [@ujwalkomarla](https://www.linkedin.com/in/ujwalkomarla/).
 
 ### 
